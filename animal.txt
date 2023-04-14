@@ -1,4 +1,0 @@
-sheep
-cow
-chicken
-horse
