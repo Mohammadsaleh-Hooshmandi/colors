@@ -4,3 +4,7 @@ red
 blue
 green
 yellow
+purple
+orange
+sky blue
+gray
